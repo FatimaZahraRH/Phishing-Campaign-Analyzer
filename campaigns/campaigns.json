@@ -1,0 +1,289 @@
+[
+ {
+  "id": "C01",
+  "month": "2026-02",
+  "theme_fr": "Mise à jour de la politique de congés",
+  "theme_en": "Updated leave policy",
+  "cues": {
+   "error": [],
+   "technical_indicator": [
+    "domaine d'expéditeur externe",
+    "lien vers un domaine inconnu"
+   ],
+   "visual_presentation": [
+    "logo de faible qualité"
+   ],
+   "language_content": [
+    "formule générique (« Cher utilisateur »)"
+   ],
+   "common_tactic": [
+    "urgence"
+   ]
+  },
+  "premise": {
+   "mimics_workplace_process": 8,
+   "has_workplace_relevance": 8,
+   "aligns_with_other_situations": 4,
+   "engenders_concern": 4,
+   "prior_training_or_warnings": 0
+  }
+ },
+ {
+  "id": "C02",
+  "month": "2026-03",
+  "theme_fr": "Document partagé en attente de lecture",
+  "theme_en": "Shared document awaiting review",
+  "cues": {
+   "error": [],
+   "technical_indicator": [
+    "domaine d'expéditeur externe",
+    "lien vers un domaine inconnu"
+   ],
+   "visual_presentation": [
+    "logo de faible qualité"
+   ],
+   "language_content": [
+    "formule générique (« Cher utilisateur »)"
+   ],
+   "common_tactic": [
+    "urgence",
+    "menace de conséquence"
+   ]
+  },
+  "premise": {
+   "mimics_workplace_process": 8,
+   "has_workplace_relevance": 6,
+   "aligns_with_other_situations": 4,
+   "engenders_concern": 4,
+   "prior_training_or_warnings": 2
+  }
+ },
+ {
+  "id": "C03",
+  "month": "2026-04",
+  "theme_fr": "Inscription à la mutuelle d'entreprise",
+  "theme_en": "Company health plan enrolment",
+  "cues": {
+   "error": [
+    "faute d'orthographe dans l'objet"
+   ],
+   "technical_indicator": [
+    "domaine d'expéditeur externe",
+    "lien vers un domaine inconnu",
+    "adresse de réponse différente"
+   ],
+   "visual_presentation": [
+    "logo de faible qualité",
+    "mise en page différente de l'original"
+   ],
+   "language_content": [
+    "formule générique (« Cher utilisateur »)",
+    "demande inhabituelle"
+   ],
+   "common_tactic": [
+    "urgence",
+    "menace de conséquence"
+   ]
+  },
+  "premise": {
+   "mimics_workplace_process": 6,
+   "has_workplace_relevance": 6,
+   "aligns_with_other_situations": 4,
+   "engenders_concern": 2,
+   "prior_training_or_warnings": 2
+  }
+ },
+ {
+  "id": "C04",
+  "month": "2026-05",
+  "theme_fr": "Signature électronique d'un avenant",
+  "theme_en": "E-signature request for an amendment",
+  "cues": {
+   "error": [
+    "faute d'orthographe dans l'objet"
+   ],
+   "technical_indicator": [
+    "domaine d'expéditeur externe",
+    "lien vers un domaine inconnu",
+    "adresse de réponse différente"
+   ],
+   "visual_presentation": [
+    "logo de faible qualité",
+    "mise en page différente de l'original"
+   ],
+   "language_content": [
+    "formule générique (« Cher utilisateur »)",
+    "demande inhabituelle"
+   ],
+   "common_tactic": [
+    "urgence",
+    "menace de conséquence",
+    "promesse de gain"
+   ]
+  },
+  "premise": {
+   "mimics_workplace_process": 6,
+   "has_workplace_relevance": 6,
+   "aligns_with_other_situations": 2,
+   "engenders_concern": 2,
+   "prior_training_or_warnings": 2
+  }
+ },
+ {
+  "id": "C05",
+  "month": "2026-06",
+  "theme_fr": "Exercice d'évacuation du bâtiment",
+  "theme_en": "Building evacuation drill",
+  "cues": {
+   "error": [
+    "faute d'orthographe dans l'objet",
+    "faute de grammaire dans le texte"
+   ],
+   "technical_indicator": [
+    "domaine d'expéditeur externe",
+    "lien vers un domaine inconnu",
+    "adresse de réponse différente"
+   ],
+   "visual_presentation": [
+    "logo de faible qualité",
+    "mise en page différente de l'original"
+   ],
+   "language_content": [
+    "formule générique (« Cher utilisateur »)",
+    "demande inhabituelle"
+   ],
+   "common_tactic": [
+    "urgence",
+    "menace de conséquence"
+   ]
+  },
+  "premise": {
+   "mimics_workplace_process": 6,
+   "has_workplace_relevance": 4,
+   "aligns_with_other_situations": 4,
+   "engenders_concern": 4,
+   "prior_training_or_warnings": 4
+  }
+ },
+ {
+  "id": "C06",
+  "month": "2026-07",
+  "theme_fr": "Colis en attente de livraison",
+  "theme_en": "Parcel awaiting delivery",
+  "cues": {
+   "error": [
+    "faute d'orthographe dans l'objet",
+    "faute de grammaire dans le texte",
+    "formule de politesse inhabituelle"
+   ],
+   "technical_indicator": [
+    "domaine d'expéditeur externe",
+    "lien vers un domaine inconnu",
+    "adresse de réponse différente",
+    "nom affiché différent de l'adresse"
+   ],
+   "visual_presentation": [
+    "logo de faible qualité",
+    "mise en page différente de l'original",
+    "absence de signature habituelle"
+   ],
+   "language_content": [
+    "formule générique (« Cher utilisateur »)",
+    "demande inhabituelle",
+    "incohérence de ton"
+   ],
+   "common_tactic": [
+    "urgence",
+    "menace de conséquence",
+    "promesse de gain"
+   ]
+  },
+  "premise": {
+   "mimics_workplace_process": 0,
+   "has_workplace_relevance": 2,
+   "aligns_with_other_situations": 6,
+   "engenders_concern": 2,
+   "prior_training_or_warnings": 4
+  }
+ },
+ {
+  "id": "C07",
+  "month": "2026-08",
+  "theme_fr": "Alerte de sécurité sur le compte de messagerie",
+  "theme_en": "Mailbox security alert",
+  "cues": {
+   "error": [
+    "faute d'orthographe dans l'objet",
+    "faute de grammaire dans le texte"
+   ],
+   "technical_indicator": [
+    "domaine d'expéditeur externe",
+    "lien vers un domaine inconnu",
+    "adresse de réponse différente"
+   ],
+   "visual_presentation": [
+    "logo de faible qualité",
+    "mise en page différente de l'original"
+   ],
+   "language_content": [
+    "formule générique (« Cher utilisateur »)",
+    "demande inhabituelle"
+   ],
+   "common_tactic": [
+    "urgence",
+    "menace de conséquence",
+    "promesse de gain"
+   ]
+  },
+  "premise": {
+   "mimics_workplace_process": 6,
+   "has_workplace_relevance": 6,
+   "aligns_with_other_situations": 2,
+   "engenders_concern": 4,
+   "prior_training_or_warnings": 4
+  }
+ },
+ {
+  "id": "C08",
+  "month": "2026-09",
+  "theme_fr": "Gain d'une carte cadeau",
+  "theme_en": "Gift card prize",
+  "cues": {
+   "error": [
+    "faute d'orthographe dans l'objet",
+    "faute de grammaire dans le texte",
+    "formule de politesse inhabituelle"
+   ],
+   "technical_indicator": [
+    "domaine d'expéditeur externe",
+    "lien vers un domaine inconnu",
+    "adresse de réponse différente",
+    "nom affiché différent de l'adresse"
+   ],
+   "visual_presentation": [
+    "logo de faible qualité",
+    "mise en page différente de l'original",
+    "absence de signature habituelle",
+    "police non standard"
+   ],
+   "language_content": [
+    "formule générique (« Cher utilisateur »)",
+    "demande inhabituelle",
+    "incohérence de ton"
+   ],
+   "common_tactic": [
+    "urgence",
+    "menace de conséquence",
+    "promesse de gain",
+    "appel à l'autorité"
+   ]
+  },
+  "premise": {
+   "mimics_workplace_process": 0,
+   "has_workplace_relevance": 0,
+   "aligns_with_other_situations": 4,
+   "engenders_concern": 0,
+   "prior_training_or_warnings": 4
+  }
+ }
+]

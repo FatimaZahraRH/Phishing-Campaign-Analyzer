@@ -1,0 +1,14 @@
+{
+ "runs": 200,
+ "raw_trend_declared_significant": 1.0,
+ "adjusted_trend_false_positive_employee_model": 0.275,
+ "adjusted_trend_false_positive_campaign_level": 0.065,
+ "training_true_or": 0.905,
+ "training_mean_estimated_or": 0.9130020941302149,
+ "training_ci_coverage_robust": 0.925,
+ "training_ci_coverage_naive": 0.87,
+ "training_population_averaged_or": 0.9155548828856955,
+ "training_ci_coverage_robust_vs_pa": 0.935,
+ "training_power": 0.195,
+ "report_trend_power": 0.965
+}
